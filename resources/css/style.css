@@ -11,11 +11,15 @@ nav{
   display: inline-block;
   justify-content: space-around;
   padding: 0px 40px;
+}
 
+a{
+  color: black;
 }
 
 .button{
-  margin:5px 5px;}
+margin:5px 5px;
+}
 
 .logo{
 display: inline-flex;
